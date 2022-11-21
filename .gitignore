@@ -1,5 +1,9 @@
-# Created by https://www.toptal.com/developers/gitignore/api/flatpak
-# Edit at https://www.toptal.com/developers/gitignore?templates=flatpak
+# Created by https://www.toptal.com/developers/gitignore/api/flatpak,direnv
+# Edit at https://www.toptal.com/developers/gitignore?templates=flatpak,direnv
+
+### direnv ###
+.direnv
+.envrc
 
 ### Flatpak ###
 .flatpak-builder
@@ -7,4 +11,4 @@ build
 build-dir
 repo
 
-# End of https://www.toptal.com/developers/gitignore/api/flatpak
+# End of https://www.toptal.com/developers/gitignore/api/flatpak,direnv
